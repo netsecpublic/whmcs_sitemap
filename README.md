@@ -41,5 +41,3 @@ For this sitemap generator to create valid links that Google will accept, you mu
 3. Ensure this is set to **Full Friendly URLs** or **Friendly index.php URLs**. 
 [Image of WHMCS Friendly URLs settings panel]
 4. Click **Save Changes**.
-
-*Note: If you use Full Friendly URLs, ensure your web server (`.htaccess` for
